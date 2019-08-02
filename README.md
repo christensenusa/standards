@@ -1,7 +1,7 @@
 # Coding Standards
 Spaces instead of Tabs: configure your editor so when you hit tab, they are automatically replaced by FOUR spaces. This applies across all languages.
-    ○ Some editors do it automatically
-    ○ How to configure it in SSMS: Tools -> Options -> Text Editor -> Transact-SQL -> Tabs -> Insert spaces
+- Some editors do it automatically
+- How to configure it in SSMS: Tools -> Options -> Text Editor -> Transact-SQL -> Tabs -> Insert spaces
 
 ## SQL
 General information on good syntax can be found here: https://www.sqlstyle.guide/ . Below is recommend syntax so we can have consistent and easy to read queries. 
