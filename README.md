@@ -63,6 +63,11 @@ General information on good syntax can be found here: https://www.sqlstyle.guide
 - class names and function names are *PascalCase*
 - variable names are *camelCase*
 - constant name are *UPPER_CASE*
+
+## Git workflow
+Gitflow from https://buddy.works/blog/5-types-of-git-workflows
+![alt text](https://buddy.works/blog/images/gitflow.png "Git workflow")
+
 ## README
 Readme will use markdown (.md) format
 
