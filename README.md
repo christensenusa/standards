@@ -68,6 +68,11 @@ General information on good syntax can be found here: https://www.sqlstyle.guide
 Gitflow from https://buddy.works/blog/5-types-of-git-workflows
 ![alt text](https://buddy.works/blog/images/gitflow.png "Git workflow")
 
+## UnitTest framework
+- C#: xUnit
+- Python: pytest
+- React: Jest
+
 ## README
 Readme will use markdown (.md) format
 
