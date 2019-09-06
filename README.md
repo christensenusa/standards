@@ -66,6 +66,7 @@ General information on good syntax can be found here: https://www.sqlstyle.guide
 
 ## Git workflow
 Gitflow from https://buddy.works/blog/5-types-of-git-workflows
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 ![alt text](https://buddy.works/blog/images/gitflow.png "Git workflow")
 
 ## UnitTest framework
